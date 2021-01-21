@@ -5,7 +5,7 @@ Created on Fri Oct 16 11:08:06 2020
 
 @author: anton
 
-DECISION FUNCTION PLOT LOOKS STRANGE
+Matrix Form CUSUM
 """
 
 import numpy as np
